@@ -3,7 +3,7 @@
 
 cask "bluenap" do
   version "2.2.0"
-  sha256 "d58de33fb7528518ddb2030e14f29d9c5c0336e66cb0f0af864f99bc43d62d5d"
+  sha256 "5ff5a8d92c23ca96675ba21df2a5bd00e0cda43a93145860196ab0f373d4bdbd"
 
   url "https://github.com/jorchford/BlueNap/releases/download/v#{version}/BlueNap.dmg"
   name "BlueNap"
