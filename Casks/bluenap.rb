@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "bluenap" do
-  version "2.2.0"
-  sha256 "5ff5a8d92c23ca96675ba21df2a5bd00e0cda43a93145860196ab0f373d4bdbd"
+  version "2.3"
+  sha256 "8b6e5ab3b551226628d4f39ae3065d8588abc247bf27ad87afb0236dfa9e3628"
 
   url "https://github.com/jorchford/BlueNap/releases/download/v#{version}/BlueNap.dmg"
   name "BlueNap"
